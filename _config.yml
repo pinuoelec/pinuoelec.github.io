@@ -1,8 +1,9 @@
 # ----
 # Site
 #title: Justice Template
-title: bi4wms
-url: "https://orchid-heron.cloudvent.net"
+#url: "https://orchid-heron.cloudvent.net"
+title: pinuoelec
+url: "https://pinuoelec.github.io"
 baseurl: 
 google_analytics_key:
 google_maps_javascript_api_key:
